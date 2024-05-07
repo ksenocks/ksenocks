@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ksenocks
+- 👋 Hi, I’m @ksen
 - 👀 I’m interested in programming
 
 <!---
